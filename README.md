@@ -1,2 +1,2 @@
-# DS-Acekard-Theme
-An Acekard theme based on the original DS startup screen. Currently a WIP.
+# DS-Acekard-Skin
+An Acekard skin/theme based on the original DS startup screen. Currently a WIP.
